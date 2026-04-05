@@ -2,7 +2,7 @@ name: Automated SonyLIV JSON Updater
 
 on:
   schedule:
-    - cron: '*/7 * * * *' 
+    - cron: '*/7 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -34,7 +34,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          export TZ="Asia/Sainthia"
+          export TZ="Asia/Kolkata"
           git add sonyliv.json sliv.txt
-          git commit -m "SonyLIV Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]" --allow-empty
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "SonyLIV Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main
