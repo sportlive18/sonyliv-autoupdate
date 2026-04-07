@@ -1,16 +1,137 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:42:26 07-04-2026",
+    "last update time": "01:14:59 08-04-2026",
     "matches": [
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090508107,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016784/1775021450637324_leg-1-generic-promo_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090524065_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Quarter-Final - 1st Leg - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524065_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524065_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524065_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524065_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/RealMadr0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524529_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524529_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524529_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524529_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090524529_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Sporting0704/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775634297~acl=/*~id=17118061093978233883920191044755~hmac=2779f14180f25eb8763324930e53c029e927517f6e4daef4b46cb5147fc9956b"
         },
         {
             "event_category": "Football",
@@ -29,15 +150,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090511809,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284277330532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -83,15 +195,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 327 - Prochazka vs Ulberg"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090511808,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282430562532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
