@@ -1,29 +1,137 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:07:05 08-04-2026",
+    "last update time": "01:29:52 09-04-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090525163_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1774841627666488_UEL26_QuarterFinal_Leg1_Braga_vs_Real_Betis_30mar_landscape_thumb.jpg",
+            "contentId": "1090525146_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2025-26",
-            "match_name": "Braga vs Real Betis - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775709424~acl=/*~id=96222014297381138160289440820273~hmac=0624dfd2e4804be186c05739f1e2cf2c4346db1e07f49ea20979adfef4a95b98",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775709424~acl=/*~id=96222014297381138160289440820273~hmac=0624dfd2e4804be186c05739f1e2cf2c4346db1e07f49ea20979adfef4a95b98",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775709424~acl=/*~id=96222014297381138160289440820273~hmac=0624dfd2e4804be186c05739f1e2cf2c4346db1e07f49ea20979adfef4a95b98"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
         },
         {
             "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090513346,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016862/1775205839719237_PSG-vs-Liv_landscape.jpg",
+            "isLive": true,
+            "contentId": "1090525146_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - QF - 1st Leg - Day 2 - UEFA Champions League 2025-26"
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525146_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525146_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525146_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525204_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525204_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525204_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525204_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090525204_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775721590~acl=/*~id=92615240910839232859053992239423~hmac=ebf35add403f8fd6d846ef589952cf58def394b52daf93019ff6ffb113a5171c"
         },
         {
             "event_category": "Cricket",
@@ -33,15 +141,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090511811,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285354730532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -78,15 +177,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 327 - Prochazka vs Ulberg"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090511810,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284963766532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
