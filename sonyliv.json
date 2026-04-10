@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:35:54 10-04-2026",
+    "last update time": "00:57:22 11-04-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090526600_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774527805629658_BLIGA_26_MD29_Augsburg-vs-Hoffenheim__landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Augsburg vs Hoffenheim - MD 29 - 10 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Bundesli1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775892442~acl=/*~id=93850347917315757610216873910283~hmac=00844a84b063e7e1e6ea4f644575fd0f822cb4c8fbc85105da28485e91ff26f6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Bundesli1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775892442~acl=/*~id=93850347917315757610216873910283~hmac=00844a84b063e7e1e6ea4f644575fd0f822cb4c8fbc85105da28485e91ff26f6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Bundesli1004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775892442~acl=/*~id=93850347917315757610216873910283~hmac=00844a84b063e7e1e6ea4f644575fd0f822cb4c8fbc85105da28485e91ff26f6"
+        },
         {
             "event_category": "Fight Sports",
             "isLive": false,
@@ -20,6 +33,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090526813,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017116/1775832515230172_UCL26_QF2_bayern_vs_madrid_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Quarter-Final - Day 2 - 2nd Leg - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090526812,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017116/1775832421982172_UCL26_QF2_atletico_vs_barca_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Quarter-Final - Day 1 - 2nd Leg - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Cricket",
